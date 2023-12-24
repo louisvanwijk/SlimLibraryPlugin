@@ -11,7 +11,7 @@ The SlimLibrary plugin was developed to provide additional functions and feature
 
 ### Installation ###
 
-The SlimLibrary plugin can be installed using Logitech Media Server's Extension Downloader. Add https://matglo.bitbucket.io/slimlibraryplugin/repo.xml to the list of Additional Repositories in the Extension downloader plugin settings (located in Settings/Plugins in the standard web interface) and activate the plugin. 
+The SlimLibrary plugin can be installed using Logitech Media Server's Extension Downloader. Add https://raw.githubusercontent.com/louisvanwijk/SlimLibraryPlugin/main/download/repo.xml to the list of Additional Repositories in the Extension downloader plugin settings (located in Settings/Plugins in the standard web interface) and activate the plugin. 
 
 ### Who do I talk to? ###
 

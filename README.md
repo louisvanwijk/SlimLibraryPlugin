@@ -1,0 +1,2 @@
+# SlimLibraryPlugin
+SlimLibrary LMS Plugin 

@@ -1,0 +1,23 @@
+<extensions>
+<details>
+<title lang="EN">Louis van Wijk's Repo</title>
+</details>
+<plugins>
+<plugin name="SlimLibrary" version="2.00" minTarget="7.0" maxTarget="*">
+<title lang="EN">SlimLibrary Plugin</title>
+<desc lang="EN">
+Provide the additional features to SlimLibrary iOS App.
+</desc>
+<changes lang="EN">Now supports filtering by composer</changes>
+<url>
+https://bitbucket.org/matglo/slimlibraryplugin/downloads/SlimLibrary.2.00.zip
+</url>
+<link>
+https://bitbucket.org/matglo/slimlibraryplugin/wiki
+</link>
+<creator>Louis van Wijk</creator>
+<email>louisvanwijk@matglo.com</email>
+<sha>0e36e896849911f1366e7b7208d33b62dde607b2</sha>
+</plugin>
+</plugins>
+</extensions>

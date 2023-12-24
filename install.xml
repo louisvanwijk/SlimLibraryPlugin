@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+
+<extension>
+	<id>d792b667-8a2b-4acf-a8f8-55943e061742</id>
+        <name>PLUGIN_SLIM_LIBRARY</name>
+        <module>Plugins::SlimLibrary::Plugin</module>
+        <version>2.00</version>
+        <description>PLUGIN_SLIM_LIBRARY_DESC</description>
+        <creator>Louis van Wijk</creator>
+        <email>louisvanwijk@matglo.com</email>
+
+	<defaultState>enabled</defaultState>
+        
+        <homepageURL>https://bitbucket.org/matglo/slimlibraryplugin/wiki/Home</homepageURL>
+	<type>2</type><!-- type=extension -->
+
+        <targetApplication>
+  	        <id>SqueezeCenter</id>
+                <minVersion>7.0a</minVersion>
+                <maxVersion>*</maxVersion>
+        </targetApplication>
+
+</extension>

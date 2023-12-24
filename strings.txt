@@ -1,0 +1,12 @@
+# String file for SlimLibrary plugin
+#
+# Any string you want to display should be defined here.
+# It makes it easier to support multiple languages
+
+
+PLUGIN_SLIM_LIBRARY
+	EN	SlimLibrary
+
+PLUGIN_SLIM_LIBRARY_DESC
+	EN	SlimLibrary App Plugin
+	

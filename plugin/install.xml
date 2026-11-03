@@ -11,7 +11,7 @@
 
 	<defaultState>enabled</defaultState>
         
-        <homepageURL>https://bitbucket.org/matglo/slimlibraryplugin/wiki/Home</homepageURL>
+        <homepageURL>https://matglosolutions.com/support.html</homepageURL>
 	<type>2</type><!-- type=extension -->
 
         <targetApplication>

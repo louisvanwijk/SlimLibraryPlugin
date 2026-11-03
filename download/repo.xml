@@ -3,21 +3,21 @@
 <title lang="EN">Louis van Wijk's Repo</title>
 </details>
 <plugins>
-<plugin name="SlimLibrary" version="2.00" minTarget="7.0" maxTarget="*">
+<plugin name="SlimLibrary" version="2.01" minTarget="7.0" maxTarget="*">
 <title lang="EN">SlimLibrary Plugin</title>
 <desc lang="EN">
 Provide the additional features to SlimLibrary iOS App.
 </desc>
-<changes lang="EN">Now supports filtering by composer</changes>
+<changes lang="EN">Updated the support and homepage links</changes>
 <url>
-https://github.com/louisvanwijk/SlimLibraryPlugin/raw/main/download/SlimLibrary.2.00.zip
+https://github.com/louisvanwijk/SlimLibraryPlugin/raw/main/download/SlimLibrary.2.01.zip
 </url>
 <link>
 https://matglosolutions.com/support.html
 </link>
 <creator>Louis van Wijk</creator>
 <email>louisvanwijk@matglo.com</email>
-<sha>a5667f61933c47f69a68ef98a68e2f7c3304bb2f</sha>
+<sha>44ce2a4e2d5f2ffc763faf827931943b2ea6be10</sha>
 </plugin>
 </plugins>
 </extensions>

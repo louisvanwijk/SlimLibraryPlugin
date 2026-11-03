@@ -56,7 +56,7 @@ my $prefs = preferences('plugin.slimlibrary');
 use constant SLIMLIBRARY_FILE_URL => 'plugins/SlimLibrary/[0-9]+/';
 use constant SLIMLIBRARY_VIDEOTHUMBNAIL_URL => 'plugins/SlimLibrary/videothumbnail/';
 use constant IMG_EXTS => ('.jpg','.JPG','.jpeg','.png','.PNG');
-use constant SLIMLIBRARY_VERSION => 2.00;
+use constant SLIMLIBRARY_VERSION => 2.01;
 
 # used for logging
 # Log levels are DEBUG, INFO, WARN, ERROR, FATAL where a level will include messages for all levels to the right.
